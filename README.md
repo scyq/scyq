@@ -1,4 +1,5 @@
 ### Hi there, Welcome to scyq's profile 👋
+不小心用脚本刷成了一页绿，但还是挺勤快一人。
 
 ![](https://komarev.com/ghpvc/?username=scyq)
 
