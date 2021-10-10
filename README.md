@@ -1,7 +1,7 @@
 ### Hi there, Welcome to scyq's profile 👋
 
 - 🔭 I’m currently working in [BJUT](https://www.bjut.edu.cn/) and [SIGS](https://www.sigs.tsinghua.edu.cn/).
-- 🌱 I have a great passion for game development, visual arts, and content creation, including painting, animation, computer graphics, and procedural generation.
+- 🌱 I have a great passion for game development, visual arts, and content creation, including painting, animation, computer graphics, and generative art.
 - 📫 Feel free to contact me: chenyuqing0429@foxmail.com
 
 ![](https://komarev.com/ghpvc/?username=scyq)
